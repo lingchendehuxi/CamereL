@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleImageView">
+        <attr name="src" format="reference"></attr>
+        <attr name="line_color" format="color"></attr>
+        <attr name="line_width" format="dimension"></attr>
+    </declare-styleable>
+</resources>
